@@ -28,8 +28,7 @@ ASSIGNMENT1JAVA/
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/AccountBalanceApp.git
-cd AccountBalanceApp
+git clone: https://github.com/Hemilp5114/AccountBalanceApp.git
 
 Step 2: Open in IntelliJ IDEA
 
